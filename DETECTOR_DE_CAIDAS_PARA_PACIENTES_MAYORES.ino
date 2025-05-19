@@ -6,10 +6,10 @@
 #include <UniversalTelegramBot.h>
 
 // Configuración WiFi y Telegram
-const char* ssid = "vodafoneBA1022_EXT";
-const char* password = "7CEPE96EMRM5DLUP";
-const char* botToken = "7591963627:AAGNbcN8nOUbb4fxfcb25-GfTpEK8Jipvuo";
-const char* chatId = "1168441956";
+const char* ssid = "";
+const char* password = "";
+const char* botToken = "";
+const char* chatId = "";
 
 // Umbral de impacto ajustado
 const float UMBRAL_IMPACTO = 16.0; // m/s²
